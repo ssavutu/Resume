@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1771764224.35293 "/home/sachin/Documents/Resume/New/SachinAvutuResume.tex" "SachinAvutuResume.pdf" "SachinAvutuResume" 1771764224.80062 0
+["pdflatex"] 1772789096.66687 "/home/sachin/Documents/Resume/New/SachinAvutuResume.tex" "SachinAvutuResume.pdf" "SachinAvutuResume" 1772789097.14718 0
   "/home/sachin/Documents/Resume/New/SachinAvutuResume.tex" 1771763368.37208 4603 5ade73ad7c16dd720f40122b446e17c3 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1622837620 2920 d63721872b8c77041b88e51b8f7c291d ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1622837620 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
@@ -121,13 +121,13 @@
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1764115200 40900 887e0dc8cac988a9e9c574af364cf837 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1766219035.66209 4547210 0b4d8bce3d83ee4f50b88a57a6a0d7ef ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1766218695 7753934 622804dab48a41c6b0e08e8920ebe66d ""
-  "SachinAvutuResume.aux" 1771764224.72855 1683 72e7cb415266d08cd6a5ee81eb65a759 "pdflatex"
+  "SachinAvutuResume.aux" 1772789097.07352 1683 72e7cb415266d08cd6a5ee81eb65a759 "pdflatex"
   "SachinAvutuResume.tex" 1771763368.37208 4603 5ade73ad7c16dd720f40122b446e17c3 ""
-  "education.tex" 1771753041.67229 759 8276b85681db9e10ccbe5925be3d0cb4 ""
-  "experience.tex" 1771764193.54716 3094 70b6b4b28bc37fd3742b154aa1374ce9 ""
+  "education.tex" 1772788605.25309 759 8276b85681db9e10ccbe5925be3d0cb4 ""
+  "experience.tex" 1772788900.15379 2531 926156d4b0647ed3a7144ffd6c901d03 ""
   "header.tex" 1771759850.0179 1195 132ea7e52aaf6e26382c4865e3318bb9 ""
-  "projects.tex" 1771764224.17455 1460 58c9b9ff22b795946677c0bfedb9b603 ""
-  "skills.tex" 1771763217.8867 599 1f00632cc45c5dc4d4c4ad2b57f5d75a ""
+  "projects.tex" 1772789096.48752 2198 2e321cb93f0b5e171b6e2a1d8e4d4ae3 ""
+  "skills.tex" 1772788474.43258 618 28b12df8095e9a5d1849b3f21f14779c ""
   (generated)
   "SachinAvutuResume.aux"
   "SachinAvutuResume.log"
