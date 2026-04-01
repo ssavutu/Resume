@@ -2,7 +2,7 @@ PWD /home/sachin/Documents/Resume/New
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/sachin/Documents/Resume/New/SachinAvutuResume.tex
+INPUT SachinAvutuResume.tex
 OUTPUT SachinAvutuResume.log
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -793,6 +793,13 @@ INPUT ./education.tex
 INPUT ./education.tex
 INPUT education.tex
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/lm/ec-lmri10.tfm
+INPUT ./experience.tex
+INPUT ./experience.tex
+INPUT ./experience.tex
+INPUT experience.tex
+INPUT ./experience.tex
+INPUT ./experience.tex
+INPUT experience.tex
 INPUT /usr/share/texlive/texmf-dist/tex/latex/lm/ot1lmr.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/lm/ot1lmr.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/lm/ot1lmr.fd
@@ -819,13 +826,6 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/lm/omxlmex.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/lm/omxlmex.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/lm/omxlmex.fd
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/lm/lmex10.tfm
-INPUT ./experience.tex
-INPUT ./experience.tex
-INPUT ./experience.tex
-INPUT experience.tex
-INPUT ./experience.tex
-INPUT ./experience.tex
-INPUT experience.tex
 INPUT ./projects.tex
 INPUT ./projects.tex
 INPUT ./projects.tex
@@ -835,6 +835,11 @@ INPUT ./projects.tex
 INPUT projects.tex
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/lm/ec-lmri8.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/fontawesome5/fa5free1solid.tfm
+INPUT /usr/share/texlive/texmf-dist/tex/latex/lm/ts1lmr.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/lm/ts1lmr.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/lm/ts1lmr.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/lm/ts1lmr.fd
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/lm/ts1-lmr10.tfm
 INPUT ./skills.tex
 INPUT ./skills.tex
 INPUT ./skills.tex
@@ -848,6 +853,7 @@ INPUT /usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc
 INPUT /usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc
 INPUT /usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc
 INPUT /usr/share/texlive/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc
+INPUT /usr/share/texlive/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc
 INPUT SachinAvutuResume.aux
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb
