@@ -3,10 +3,10 @@
 % Packages:
 \usepackage[
     ignoreheadfoot, % set margins without considering header and footer
-    top=0.22 in, % seperation between body and page edge from the top
-    bottom=0.22 in, % seperation between body and page edge from the bottom
-    left=0.30 in, % seperation between body and page edge from the left
-    right=0.30 in, % seperation between body and page edge from the right
+    top=0.18 in, % seperation between body and page edge from the top
+    bottom=0.18 in, % seperation between body and page edge from the bottom
+    left=0.28 in, % seperation between body and page edge from the left
+    right=0.28 in, % seperation between body and page edge from the right
     footskip=0 cm, % seperation between body and footer
     % showframe % for debugging 
 ]{geometry} % for adjusting page geometry
@@ -58,24 +58,24 @@
 \makeatother
 %\pagestyle{customFooterStyle}
 
-\titleformat{\section}{\needspace{4\baselineskip}\bfseries\large}{}{0pt}{}[\vspace{1pt}\titlerule]
+\titleformat{\section}{\needspace{2\baselineskip}\bfseries\large}{}{0pt}{}[\vspace{1pt}\titlerule]
 
 \titlespacing{\section}{
     % left space:
     -1pt
 }{
     % top space:
-    0.15 cm
+    0.1 cm
 }{
     % bottom space:
-    0.2 cm
+    0.13 cm
 } % section title spacing
 
 \renewcommand\labelitemi{$\circ$} % custom bullet points
 \newenvironment{highlights}{
     \begin{itemize}[
-        topsep=0.10 cm,
-        parsep=0.10 cm,
+        topsep=0.07 cm,
+        parsep=0.07 cm,
         partopsep=0pt,
         itemsep=0pt,
         leftmargin=0.4 cm + 10pt
@@ -98,9 +98,9 @@
 
 \newenvironment{onecolentry}{
     \begin{adjustwidth}{
-        0.2 cm + 0.00001 cm
+        0.1 cm + 0.00001 cm
     }{
-        0.2 cm + 0.00001 cm
+        0.1 cm + 0.00001 cm
     }
 }{
     \end{adjustwidth}
